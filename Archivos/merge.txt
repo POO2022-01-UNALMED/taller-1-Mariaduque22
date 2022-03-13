@@ -1,0 +1,1 @@
+Una vez se adiciono un archivo a la carpeta archivos creada en el github desktop fue posible hacer commit a esta
