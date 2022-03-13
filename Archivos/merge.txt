@@ -1,0 +1,1 @@
+Una vez se creo el archivo respueta.txt en la carpeta archivos, si fue posible hacer el commit en el github desktop
